@@ -1,0 +1,4 @@
+[submodule "huangziji/public"]
+	path = huangziji/public
+	url = https://github.com/huangziji/huangziji.github.io.git
+	branch = main
